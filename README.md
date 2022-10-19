@@ -9,7 +9,7 @@
 7   |Zoewyn65              |N/A                 |Ex-Leader |Yes        |
 8   |Theoxidera            |-                   |Member    |           |
 9   |Wenno                 |-                   |Member    |           |
-10  |Paulrich Hidendoriff  |-                   |Member    |           |
+10  |Paulrich Hidendoriff  |N/A                 |Member    |           |
 11  |Shmeets               |-                   |Commander |           |
 12  |R.E.Lee22             |R Lee               |Member    |           |
 13  |KingWilliam           |-                   |Member    |           |
@@ -25,7 +25,7 @@
 23  |Centurion Battalion   |-                   |Member    |           |
 24  |NATO ARMS             |-                   |Member    |           |
 25  |Thfcscott             |-                   |Member    |           |
-26  |QVon                  |???                 |Member    |           |
+26  |QVon                  |N/A                 |Member    |           |
 27  |Fhikura               |-                   |Member    |Yes        |
 28  |Alexand3r The3 Gr8    |Alexander The Great |Member    |           |
 29  |Snowelk               |-                   |Member    |           |
