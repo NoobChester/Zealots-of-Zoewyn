@@ -25,7 +25,7 @@
 23  |Centurion Battalion   |-                   |Member    |           |
 24  |NATO ARMS             |-                   |Member    |           |
 25  |Thfcscott             |-                   |Member    |           |
-26  |QVon                  |N/A                 |Member    |           |
+26  |QVon                  |Q_von               |Member    |           |
 27  |Fhikura               |-                   |Member    |Yes        |
 28  |Alexand3r The3 Gr8    |Alexander The Great |Member    |           |
 29  |Snowelk               |-                   |Member    |           |
