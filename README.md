@@ -21,7 +21,7 @@
 19  |Ofdjersey             |-                   |Member    |           |
 20  |Buckeye39             |-                   |Commander |           |
 21  |Tyndall775            |-                   |Member    |           |
-22  |Splash Nast           |-                   |Member    |           |
+22  |Splash Nasty          |-                   |Member    |           |
 23  |Centurion Battalion   |-                   |Member    |           |
 24  |NATO ARMS             |-                   |Member    |           |
 25  |Thfcscott             |-                   |Member    |           |
