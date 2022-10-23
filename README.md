@@ -3,7 +3,7 @@
 1   |Sal35                 |-                   |Leader    |           |
 2   |NoobChester           |-                   |Officer   |Yes        |
 3   |Scott073              |-                   |Officer   |           |
-4   |CloutierC             |RatKing             |Officer   |           |
+4   |RatKing68             |-                   |Officer   |           |
 5   |Willian Halsey        |-                   |Officer   |           |
 6   |Simpson86             |-                   |Commander |           |
 7   |Zoewyn65              |N/A                 |Ex-Leader |Yes        |
