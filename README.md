@@ -17,7 +17,7 @@
 15  |Aztek83               |-                   |Member    |           |
 16  |CrazyIvan2121         |-                   |Member    |           |
 17  |Gen. Smokey Stan      |Smokey Stan         |Member    |           |
-18  |DixonCider8672        |DixonCiderus        |Member    |Yes        |
+18  |DixonCider8672        |DixonCiderus        |Member    |           |
 19  |Ofdjersey             |-                   |Member    |           |
 20  |Buckeye39             |-                   |Commander |           |
 21  |Tyndall775            |-                   |Member    |           |
