@@ -5,10 +5,10 @@
 3   |Scott073              |-                   |Captain   |           |
 4   |RatKing68             |-                   |Major     |           |
 5   |Willian Halsey        |-                   |Captain   |           |
-6   |Simpson86             |-                   |Commander |           |
+6   |Simpson86             |-                   |Member    |           |
 7   |Zoewyn65              |N/A                 |Ex-Leader |Yes        |
 8   |Theoxidera            |-                   |Member    |           |
-9   |Wenno                 |-                   |Member    |           |
+9   |Wenno                 |-                   |Lieutenant|           |
 10  |Paulrich Hidendoriff  |N/A                 |Member    |           |
 11  |Shmeets               |-                   |Captain   |           |
 12  |R.E.Lee22             |R Lee               |Member    |           |
@@ -17,11 +17,11 @@
 15  |Aztek83               |-                   |Member    |           |
 16  |CrazyIvan2121         |-                   |Member    |           |
 17  |Gen. Smokey Stan      |Smokey Stan         |Member    |           |
-18  |DixonCider8672        |DixonCiderus        |Member    |           |
+18  |DixonCider8672        |DixonCiderus        |Member    |Yes        |
 19  |Ofdjersey             |-                   |Member    |           |
-20  |Buckeye39             |-                   |Commander |           |
+20  |Buckeye39             |-                   |Lieutenant|           |
 21  |Tyndall775            |-                   |Member    |           |
-22  |Splash Nasty          |-                   |Member    |           |
+22  |Splash Nasty          |-                   |Lieutenant|           |
 23  |Centurion Battalion   |-                   |Member    |           |
 24  |NATO ARMS             |-                   |Member    |           |
 25  |Thfcscott             |-                   |Member    |           |
@@ -29,7 +29,7 @@
 27  |Fhikura               |-                   |Member    |Yes        |
 28  |Alexand3r The3 Gr8    |Alexander The Great |Member    |           |
 29  |Snowelk               |-                   |Member    |           |
-30  |Joe Powerhouse        |-                   |Member    |           |
+30  |Joe Powerhouse        |-                   |Lieutenant|           |
 31  |The-Great-Cornholio   |-                   |Member    |           |
 32  |MrCabbageMan1         |-                   |Member    |           |
 33  |Koli274               |Koli                |Member    |           |
