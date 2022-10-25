@@ -41,7 +41,7 @@
 39  |\_FogyX_              |-                   |Member    |Yes        |
 40  |Demonlogic76          |-                   |Member    |           |
 41  |-                     |TheDon1983          |Commander |Yes        |
-42  |-                     |HailTheSouth        |-         |No       |
+42  |-                     |HailTheSouth        |-         |Yes        |
 43  |-                     |Toki420             |-         |Yes        |
 44  |-                     |Batman4473          |-         |Yes        |
 45  |-                     |LoopyLegend         |Recruit   |           |
