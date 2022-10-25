@@ -1,19 +1,19 @@
  ID |   In-game Username   |  Discord Username  |   Role   | On Break? |
 ----|----------------------|--------------------|----------|-----------|
-1   |Sal35                 |-                   |Leader    |           |
-2   |NoobChester           |-                   |Officer   |Yes        |
-3   |Scott073              |-                   |Officer   |           |
-4   |RatKing68             |-                   |Officer   |           |
-5   |Willian Halsey        |-                   |Officer   |           |
+1   |Sal35                 |-                   |General   |           |
+2   |NoobChester           |-                   |Captain   |Yes        |
+3   |Scott073              |-                   |Captain   |           |
+4   |RatKing68             |-                   |Major     |           |
+5   |Willian Halsey        |-                   |Captain   |           |
 6   |Simpson86             |-                   |Commander |           |
 7   |Zoewyn65              |N/A                 |Ex-Leader |Yes        |
 8   |Theoxidera            |-                   |Member    |           |
 9   |Wenno                 |-                   |Member    |           |
 10  |Paulrich Hidendoriff  |N/A                 |Member    |           |
-11  |Shmeets               |-                   |Commander |           |
+11  |Shmeets               |-                   |Captain   |           |
 12  |R.E.Lee22             |R Lee               |Member    |           |
 13  |KingWilliam           |-                   |Member    |           |
-14  |Evoque91              |-                   |Commander |           |
+14  |Evoque91              |-                   |Captain   |           |
 15  |Aztek83               |-                   |Member    |           |
 16  |CrazyIvan2121         |-                   |Member    |           |
 17  |Gen. Smokey Stan      |Smokey Stan         |Member    |           |
