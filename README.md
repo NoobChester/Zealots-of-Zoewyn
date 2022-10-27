@@ -54,3 +54,29 @@
 83  |-                     |Batman4473          |-         |Yes        |
 84  |-                     |LoopyLegend         |Recruit   |           |
 85  |-                     |Marcifer            |Recruit   |           |
+
+**General** , 1 year as Captain:
+- Overseeing all operations of the Alliance & Discord Server.
+
+**Major**, 9+ months as Captain
+- Assistant in overseeing all operations of the Alliance & Discord Server. 
+
+**Captain**,  6+ months as a Lieutenant:
+- Organize team events such as alliance games or in game events.
+- Observe alliance members in games & provide tips, feedback or support as needed.
+- Given specific duties including Recruiting, Discord & In Game authority, Handling issues and directing members if needed.
+- Officer Channel
+- Leadership Channel
+
+**Lieutenant**,  3+ months as a Sergeant. 
+- Representatives
+- Welcoming new members
+- Assist in recruiting
+- Create threads
+- In charge in both in & out of game when higher authority not present. 
+- Observe alliance members in games and provide tips, feedback or support as needed.
+- Leadership Channel 
+
+**Sergeant**,  2+ months as Active Member. 
+- Be active on Discord.
+- Welcoming new members.
