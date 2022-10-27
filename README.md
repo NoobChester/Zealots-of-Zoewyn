@@ -40,7 +40,7 @@
 38  |IVAN_XII              |Ivan_               |Member    |           |
 39  |\_FogyX_              |-                   |Member    |Yes        |
 40  |Demonlogic76          |-                   |Member    |           |
-    |                      |                    |          |           |
+‎   |‎                     |‎                   |‎         |‎          |
 41  |RatKing68             |-                   |Major     |           |
 42  |E_Rommell             |Rommel              |Member II |           |
 43  |Hawkis90              |-                   |Member II |           |
@@ -48,7 +48,7 @@
 45  |HailTheSouth          |-                   |Member II |           |
 46  |Commander1990         |-                   |Member II |           |
 47  |Bailong81             |-                   |Member II |           |
-    |                      |                    |          |           |
+‎   |‎                     |‎                   |‎         |‎          |
 81  |-                     |TheDon1983          |Commander |Yes        |
 82  |-                     |Toki420             |-         |Yes        |
 83  |-                     |Batman4473          |-         |Yes        |
