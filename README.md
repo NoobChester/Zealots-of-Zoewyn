@@ -7,6 +7,7 @@ If player is not in our discord server, *Discord Username* will be marked "N/A".
 
   ID  |   In-game Username   |  Discord Username  |   Role   |  On Break?  |
 ------|----------------------|--------------------|----------|-------------|
+‎     |                      |                    |          |             |
  1    |Sal35                 |-                   |General   |             |
  2    |Zoewyn65              |N/A                 |Ex-Leader |Yes          |
  3    |NoobChester           |-                   |Captain   |Yes          |
@@ -49,6 +50,7 @@ If player is not in our discord server, *Discord Username* will be marked "N/A".
 40    |Demonlogic76          |-                   |Member    |             |
 ‎     |                      |                    |          |             |
 **ID**| **In-game Username** |**Discord Username**| **Role** |**On Break?**|
+‎     |                      |                    |          |             |
 41    |RatKing68             |-                   |Major     |             |
 42    |E_Rommell             |Rommel              |Member II |             |
 43    |Hawkis90              |-                   |Member II |             |
@@ -58,6 +60,7 @@ If player is not in our discord server, *Discord Username* will be marked "N/A".
 47    |Bailong81             |-                   |Member II |             |
 ‎     |                      |                    |          |             |
 **ID**| **In-game Username** |**Discord Username**| **Role** |**On Break?**|
+‎     |                      |                    |          |             |
 81    |-                     |TheDon1983          |Commander |Yes          |
 82    |-                     |Toki420             |-         |Yes          |
 83    |-                     |Batman4473          |-         |Yes          |
