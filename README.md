@@ -1,6 +1,8 @@
 # Zealots of Zoewyn database
-
-Scroll to the bottom or [click me](https://github.com/NoobChester/Zealots-of-Zoewyn/edit/main/README.md#general) to read the role descriptions.
+A dash in "In-game Username" means player is not in any of our alliances.  
+A dash in "Discord Username" means player is has the same username.  
+If player is not in our discord server, *Discord Username* will be marked "N/A".  
+*Scroll down or [click me](https://github.com/NoobChester/Zealots-of-Zoewyn/edit/main/README.md#general) to read the role descriptions.*
 
  ID |   In-game Username   |  Discord Username  |   Role   | On Break? |
 ----|----------------------|--------------------|----------|-----------|
@@ -12,7 +14,7 @@ Scroll to the bottom or [click me](https://github.com/NoobChester/Zealots-of-Zoe
 3   |Simpson86             |-                   |Member    |           |
 7   |Theoxidera            |-                   |Sergeant  |           |
 8   |Wenno                 |-                   |Lieutenant|           |
-9   |Paulrich Hidendoriff  |N/A                 |Member    |           |
+9   |Paulrich Hidendoriff  |-                 |Member    |           |
 10  |Shmeets               |-                   |Captain   |           |
 11  |R.E.Lee22             |R Lee               |Member    |           |
 12  |KingWilliam           |-                   |Member    |           |
@@ -58,6 +60,7 @@ Scroll to the bottom or [click me](https://github.com/NoobChester/Zealots-of-Zoe
 83  |-                     |Batman4473          |-         |Yes        |
 84  |-                     |LoopyLegend         |Recruit   |           |
 85  |-                     |Marcifer            |Recruit   |           |
+
 ## General
 - 1+ year as Captain
 - Overseeing all operations of the Alliance & Discord Server.
@@ -89,3 +92,40 @@ Scroll to the bottom or [click me](https://github.com/NoobChester/Zealots-of-Zoe
 - Be active on Discord.
 - Welcoming new members.
 
+# Promotion/Demotion history
+   In-game Username   | New Role |     Date     |        Notes        |
+----------------------|----------|--------------|---------------------|
+Sal35                 |Captain   |?             |Before 15th Feb 2021 |
+Paulrich Hidendoriff  |Captain   |?             |^                    |
+Scott73               |Captain   |?             |^                    |
+TheDon1983            |Captain   |?             |^                    |
+NoobChester           |Captain   |?             |^                    |
+William Halsey        |Captain   |?             |See above            |
+Paulrich Hidendoriff  |Member    |???           |Date very uncertain  |
+NoobChester           |Member    |Late 2021     |Inactivity           |
+William Halsey        |Member    |Late 2021     |Inactivity           |
+simpson86             |Captain   | 2rd May 2022 |                     |
+Evoque91              |Lieutenant| 3rd May 2022 |                     |
+RatKing68             |Lieutenant| 3rd May 2022 |                     |
+NoobChester           |Lieutenant| 9th May 2022 |                     |
+shmeets               |Lieutenant|30th Aug 2022 |                     |
+NoobChester           |Captain   |30th Aug 2022 |                     |
+RatKing68             |Captain   |30th Aug 2022 |                     |
+William Halsey        |Captain   |30th Aug 2022 |                     |
+Buckeye_39            |Lieutenant| 2th Oct 2022 |                     |
+simpson86             |Lieutenant|10th Oct 2022 |                     |
+shmeets               |Captain   |25th Oct 2022 |                     |
+Evoque91              |Captain   |25th Oct 2022 |                     |
+shmeets               |Captain   |25th Oct 2022 |                     |
+Splash Nasty          |Lieutenant|25th Oct 2022 |                     |
+Wenno                 |Lieutenant|25th Oct 2022 |                     |
+Joe Powerhouse        |Lieutenant|25th Oct 2022 |                     |
+simpson86             |Member    |25th Oct 2022 |                     |
+Aztek                 |Sergeant  |25th Oct 2022 |                     |
+tyndall775            |Sergeant  |25th Oct 2022 |                     |
+Theoxidera            |Sergeant  |25th Oct 2022 |                     |
+Thfcscltt             |Sergeant  |25th Oct 2022 |                     |
+
+# TODO (maybe)
+- add hyperlink for every profile
+- add tips and advices
