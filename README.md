@@ -6,25 +6,25 @@
 4   |Scott073              |-                   |Captain   |           |
 5   |Willian Halsey        |-                   |Captain   |           |
 3   |Simpson86             |-                   |Member    |           |
-7   |Theoxidera            |-                   |Member    |           |
+7   |Theoxidera            |-                   |Sergeant  |           |
 8   |Wenno                 |-                   |Lieutenant|           |
-9   |Paulrich Hidendoriff  |-                 |Member    |           |
+9   |Paulrich Hidendoriff  |N/A                 |Member    |           |
 10  |Shmeets               |-                   |Captain   |           |
 11  |R.E.Lee22             |R Lee               |Member    |           |
 12  |KingWilliam           |-                   |Member    |           |
 13  |Evoque91              |-                   |Captain   |           |
-14  |Aztek83               |-                   |Member    |           |
+14  |Aztek83               |-                   |Sergeant  |           |
 15  |Kevindavis1989        |-                   |Member    |           |
 16  |CrazyIvan2121         |-                   |Member    |           |
 17  |Gen. Smokey Stan      |Smokey Stan         |Member    |           |
 18  |DixonCider8672        |DixonCiderus        |Member    |Yes        |
 19  |Ofdjersey             |-                   |Member    |           |
 20  |Buckeye39             |-                   |Lieutenant|           |
-21  |Tyndall775            |-                   |Member    |           |
+21  |Tyndall775            |-                   |Sergeant  |           |
 22  |Splash Nasty          |-                   |Lieutenant|           |
 23  |Centurion Battalion   |-                   |Member    |           |
 24  |NATO ARMS             |-                   |Member    |           |
-25  |Thfcscott             |-                   |Member    |           |
+25  |Thfcscott             |-                   |Sergeant  |           |
 26  |QVon                  |Q_von               |Member    |           |
 27  |Fhikura               |-                   |Member    |Yes        |
 28  |Alexand3r The3 Gr8    |Alexander The Great |Member    |           |
