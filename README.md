@@ -1,3 +1,7 @@
+# Zealots of Zoewyn database
+
+Scroll to the bottom or [click me](https://github.com/NoobChester/Zealots-of-Zoewyn/edit/main/README.md#general) to read the role descriptions.
+
  ID |   In-game Username   |  Discord Username  |   Role   | On Break? |
 ----|----------------------|--------------------|----------|-----------|
 1   |Sal35                 |-                   |General   |           |
@@ -54,21 +58,24 @@
 83  |-                     |Batman4473          |-         |Yes        |
 84  |-                     |LoopyLegend         |Recruit   |           |
 85  |-                     |Marcifer            |Recruit   |           |
-
-**General** , 1 year as Captain:
+## General
+- 1+ year as Captain
 - Overseeing all operations of the Alliance & Discord Server.
 
-**Major**, 9+ months as Captain
+## Major
+- 9+ months as Captain
 - Assistant in overseeing all operations of the Alliance & Discord Server. 
 
-**Captain**,  6+ months as a Lieutenant:
+## Captain
+- 6+ months as a Lieutenant
 - Organize team events such as alliance games or in game events.
 - Observe alliance members in games & provide tips, feedback or support as needed.
 - Given specific duties including Recruiting, Discord & In Game authority, Handling issues and directing members if needed.
 - Officer Channel
 - Leadership Channel
 
-**Lieutenant**,  3+ months as a Sergeant. 
+## Lieutenant
+- 3+ months as a Sergeant
 - Representatives
 - Welcoming new members
 - Assist in recruiting
@@ -77,6 +84,8 @@
 - Observe alliance members in games and provide tips, feedback or support as needed.
 - Leadership Channel 
 
-**Sergeant**,  2+ months as Active Member. 
+## Sergeant
+- 2+ months as Active Member
 - Be active on Discord.
 - Welcoming new members.
+
