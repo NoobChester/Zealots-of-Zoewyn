@@ -132,5 +132,8 @@ Late 2021 |William Halsey        |Member    |Inactivity           |
 ‎         |Thfcscltt             |Sergeant  |                     |
 
 # TODO (maybe)
-- add hyperlink for every profile
-- add tips and advices
+### Add hyperlink for every profile
+- Need help
+- I cannot access the game through browsers due to my account, looking up profile links is very hard for me.
+### Add tips and advices
+- Big project, will take time.
