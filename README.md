@@ -8,7 +8,7 @@
 3   |Simpson86             |-                   |Member    |           |
 7   |Theoxidera            |-                   |Member    |           |
 8   |Wenno                 |-                   |Lieutenant|           |
-9   |Paulrich Hidendoriff  |N/A                 |Member    |           |
+9   |Paulrich Hidendoriff  |-                 |Member    |           |
 10  |Shmeets               |-                   |Captain   |           |
 11  |R.E.Lee22             |R Lee               |Member    |           |
 12  |KingWilliam           |-                   |Member    |           |
